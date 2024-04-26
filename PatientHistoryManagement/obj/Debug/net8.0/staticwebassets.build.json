@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "w2ffrteqKIyhnlG4ACIH8xCRIryC3sg+nqFKMcjPHbo=",
+  "Source": "PatientHistoryManagement",
+  "BasePath": "_content/PatientHistoryManagement",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
